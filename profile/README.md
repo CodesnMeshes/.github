@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/logo.jpg" alt="Codes & Meshes" width="180" />
-
 # Codes & Meshes
 
 **How game tech works — and how to build it.**
