@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="assets/logo.jpg" alt="Codes & Meshes" width="180" />
 
