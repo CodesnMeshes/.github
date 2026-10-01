@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="assets/logo.jpg" alt="Codes & Meshes" width="180" />
 
@@ -35,7 +35,7 @@ Each video takes a working implementation apart and explains the ideas behind it
 
 | Project | Description | Status |
 |---|---|---|
-| Unified Inventory Framework | Modular inventory system for Unity | In development |
+| [Unified Inventory Framework](https://github.com/CodesnMeshes/Unified-Inventory-Framework) | Modular inventory system for Unity | In development |
 
 ---
 
