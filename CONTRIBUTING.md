@@ -1,4 +1,4 @@
-# Contributing to Gamecraft Lab projects
+# Contributing to Codes & Meshes projects
 
 Thanks for helping out!
 

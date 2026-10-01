@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="assets/logo.jpg" alt="Gamecraft Lab" width="180" />
+<img src="assets/logo.jpg" alt="Codes & Meshes" width="180" />
 
-# Gamecraft Lab
+# Codes & Meshes
 
 **How game tech works — and how to build it.**
 
 Video breakdowns of game mechanics and systems, open-source tools for players and developers, and Unity assets.
 
-[YouTube](https://www.youtube.com/@gamecraftlaboratory) · [Unity Asset Store](https://assetstore.unity.com/publishers/158532)
+[YouTube](https://www.youtube.com/@codesnmeshes) · [Unity Asset Store](https://assetstore.unity.com/publishers/158532)
 
 </div>
 
